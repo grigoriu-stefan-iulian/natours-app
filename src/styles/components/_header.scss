@@ -1,0 +1,11 @@
+.header {
+  height: 95vh;
+  background-image: linear-gradient(
+      to right,
+      hsla(111, 55%, 64%, 0.801),
+      hsla(160, 64%, 43%, 0.801)
+    ),
+    url(./img/hero.jpg);
+  background-size: cover;
+  background-position: top;
+}
